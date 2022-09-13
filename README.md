@@ -1,16 +1,17 @@
-# Nome do meu projeto
+# Projeto - Clube do Livro
 
-Rápida descrição do objetivo de fazer esse projeto
+Este projeto foi proposto em um dos cursos da formação Power BI da Alura, sob o contexto de que as gerentes Morgana e a Milena nos procuraram para criar um dashboard para que elas pudessem analisar algumas métricas muito importantes para conseguirem tomar decisões futuras baseadas nos resultados que apresentássemos sobre o e-commerce 'Clube do Livro’, famoso por fazer vendas e assinaturas de livros.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Análise do Clube do Livro**
+| :label: Tecnologias | Power BI
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.alura.com.br/formacao-power-bi
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![club-do-livro](https://user-images.githubusercontent.com/67301805/189974703-e68c2f95-d623-41fe-9ad9-9aef56503524.jpg)
+
 
 ## Detalhes do projeto
 
