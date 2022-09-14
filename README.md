@@ -9,7 +9,7 @@ Este projeto foi proposto em um dos cursos da formação Power BI da Alura, sob 
 | :rocket: URL         | https://github.com/fab-souza/power-bi
 | :fire: Desafio     | https://www.alura.com.br/formacao-power-bi
 
-![club-do-livro](https://user-images.githubusercontent.com/67301805/189974703-e68c2f95-d623-41fe-9ad9-9aef56503524.jpg#vitrinedev)
+![](https://user-images.githubusercontent.com/67301805/189974703-e68c2f95-d623-41fe-9ad9-9aef56503524.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
