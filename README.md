@@ -6,7 +6,7 @@ Este projeto foi proposto em um dos cursos da formação Power BI da Alura, sob 
 | -------------  | --- |
 | :sparkles: Nome        | **Análise do Clube do Livro**
 | :label: Tecnologias | Power BI
-| :rocket: URL         | 
+| :rocket: URL         | https://github.com/fab-souza/power-bi
 | :fire: Desafio     | https://www.alura.com.br/formacao-power-bi
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
