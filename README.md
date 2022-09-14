@@ -2,7 +2,7 @@
 
 Este projeto foi proposto em um dos cursos da formação Power BI da Alura, sob o contexto de que as gerentes Morgana e a Milena nos procuraram para criar um dashboard para que elas pudessem analisar algumas métricas muito importantes para conseguirem tomar decisões futuras baseadas nos resultados que apresentássemos sobre o e-commerce 'Clube do Livro’, famoso por fazer vendas e assinaturas de livros.
 
-| :placard: Vitrine.Dev |  [Fabiana Souza](https://cursos.alura.com.br/vitrinedev/fabdesouza)  |
+| :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **Análise do Clube do Livro**
 | :label: Tecnologias | Power BI
